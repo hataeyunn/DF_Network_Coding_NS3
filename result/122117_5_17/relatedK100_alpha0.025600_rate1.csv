@@ -1,0 +1,7 @@
+node,throughput,latency,receivedByte,numCoding
+0,inf,0,481900,111
+1,inf,0,470800,0
+2,-nan,0,0,0
+3,-nan,0,0,0
+4,3076.83,0.032501,237800,0
+5,3151.87,0.0317272,240700,0
